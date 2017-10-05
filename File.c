@@ -8,5 +8,5 @@ c=a+b;
 printf("%d",c);
   printf("party de");
   kuch bhi likh rha hun
-    satyam chor
+
 }
